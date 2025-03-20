@@ -12,7 +12,7 @@ while [ $x -le 11 ]; do
 done
 sleep 0.4
 clear
-echo -e "\e[0m          Panda Tools\n"
+echo -e "\e[0m          Magru Tools\n"
 toilet -f future -F gay WEBSCANNER
 sleep 0.4
 clear
