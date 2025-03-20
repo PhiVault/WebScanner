@@ -13,7 +13,7 @@
 - 📊 **Detailed Reporting** – Provides insights and recommendations for improving web security.  
 
 ## Installation  
-
+First put your openroute api key at api directory - 
 ```bash
 git clone https://github.com/PhiVault/WebScannner.git
 cd WebScannner
